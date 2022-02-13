@@ -50,3 +50,75 @@ p{
     font-size: 20px;
     background-color: rgb(247, 15, 216);
 }
+
+.img{
+    padding-left: 10rem;
+    padding-top: 7rem;
+
+}
+
+.main1{
+    padding-left: 20rem;
+    padding-top: 5rem;
+    display: flex;
+    gap: 20rem;
+}
+
+.main1 h1{
+    font-size: 6rem;
+}
+
+.main2{
+    padding-left: 2rem;
+}
+
+.data1 h2{
+font-size: 2.5rem;
+padding-bottom: 1rem;
+
+}
+
+.data1{
+    position: absolute;
+    top: 120rem;
+    left: 5rem;
+}
+
+
+.data1 h6{
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.img1{
+
+    position: absolute;
+    top: 115rem;
+    left:50rem ;
+
+}
+
+.header1{
+    padding-top: 5rem;
+    padding-left: 3rem;
+    
+    align-items: center;
+}
+
+.data2 h2{
+
+    font-size: 2.5rem;
+padding-bottom: 1rem;
+
+}
+
+.data2 h6{
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.data2{
+    position: absolute;
+    top: 155rem;
+    left:50rem ;
+}
